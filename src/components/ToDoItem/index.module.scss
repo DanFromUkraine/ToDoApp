@@ -1,0 +1,10 @@
+.crossed {
+    text-decoration: line-through;
+}
+
+.item {
+    list-style-type: none;
+    display: flex;
+    font-size: large;
+    justify-content: space-between;
+}
